@@ -84,4 +84,11 @@ public class MainActivity extends AppCompatActivity {
         }
         textView_wynik.setText(textView_wynik.getText().toString()+"\nBrak rozwiązań");
     }
+
+    public void kasuj(View view) {
+        editText01.setText("");
+        editText02.setText("");
+        editText03.setText("");
+        textView_wynik.setText("");
+    }
 }

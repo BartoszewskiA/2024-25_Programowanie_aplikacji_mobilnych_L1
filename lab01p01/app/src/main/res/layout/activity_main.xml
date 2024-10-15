@@ -105,6 +105,7 @@
         app:layout_constraintLeft_toLeftOf="@id/guideline2"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginRight="20dp"
+        android:onClick="kasuj"
         />
 
     <TextView
