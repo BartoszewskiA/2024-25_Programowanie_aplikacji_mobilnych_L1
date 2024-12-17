@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="przyciski">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#00020B</item>
+        <item name="android:layout_margin">7dp</item>
+    </style>
+    <style name="przyciski_v">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#00020B</item>
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="android:layout_marginTop">1dp</item>
+        <item name="android:layout_marginBottom">1dp</item>
+    </style>
+</resources>
